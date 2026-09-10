@@ -598,6 +598,7 @@ function render() {
         <span class="card-cite-text">${getCiteText(a)}</span>
         <button class="card-cite-btn" onclick="copyCite(${i})">Copy</button>
         <button class="card-cite-btn" style="background:#27ae60" onclick="event.stopPropagation();downloadRIS(${i})">RIS</button>
+        <a class="card-cite-btn" href="javascript:void(0)" onclick="downloadBibTeX(${i})" style="background:#9b59b6;color:#fff;text-decoration:none;display:inline-block;padding:3px 10px;border-radius:4px;font-size:0.72rem">BibTeX</a>
       </div>` : ''}
       <div class="detail">
         <div class="detail-grid">
@@ -725,6 +726,38 @@ function downloadRIS(idx) {
   if (a.doi) ris.push('DO  - ' + a.doi);
   const fn = (a.doi||'BS').replace(/[/\\]/g,'_') + '.ris';
   download(ris.join('\r\n') + '\r\n', fn, 'application/x-research-info-systems;charset=utf-8;');
+}
+
+/* ── Download BibTeX ── */
+function downloadBibTeX(idx) {
+  const a = filteredArticles[idx];
+  if (!a) return;
+  const bibtex = a.bibtex || generateBibTeX(a);
+  const filename = (a.doi || 'article').replace(/[/\:*?"<>|]/g, '_') + '.bib';
+  download(bibtex, filename, 'application/x-bibtex;charset=utf-8;');
+}
+
+function generateBibTeX(a) {
+  const first_author = (a.authors?.[0]?.name || 'Unknown').split(/\s+/).pop() || 'Unknown';
+  const year = a.year || '2026';
+  const key = first_author + year;
+  const authors_bib = (a.authors||[]).map(au => au.name).join(' and ');
+  let bib = '@article{' + key + ', \r\n';
+  bib += 'author = {' + authors_bib + '},\r\n';
+  bib += 'title = {' + (a.title || '') + '},\r\n';
+  bib += 'year = {' + year + '},\r\n';
+  bib += 'journal = {Building Simulation},\r\n';
+  if (a.volume) bib += 'volume = {' + a.volume + '},\r\n';
+  if (a.issue) bib += 'number = {' + a.issue + '},\r\n';
+  if (a.firstpage && a.lastpage) bib += 'pages = {' + a.firstpage + '-' + a.lastpage + '},\r\n';
+  if (a.keywords && a.keywords.length) bib += 'keywords = {' + a.keywords.join(', ') + '},\r\n';
+  if (a.doi) {
+    bib += 'url = {https://www.sciopen.com/article/' + a.doi + '},\r\n';
+    bib += 'doi = {' + a.doi + '},\r\n';
+  }
+  if (a.abstract) bib += 'abstract = {' + a.abstract + '}';
+  bib += '}';
+  return bib;
 }
 
 /* ── Download helper ── */
