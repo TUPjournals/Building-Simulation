@@ -36,7 +36,10 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1486-0",
     "internal_id": "2084537644143386625",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Energy",
+      "Data-driven and Machine Learning"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1425-0",
@@ -99,7 +102,10 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1425-0",
     "internal_id": "2084537607766188033",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "HVAC",
+      "Data-driven and Machine Learning"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1454-8",
@@ -150,7 +156,11 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1454-8",
     "internal_id": "2084537602611388417",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Energy",
+      "HVAC",
+      "Data-driven and Machine Learning"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1447-7",
@@ -203,7 +213,11 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1447-7",
     "internal_id": "2084537617228537857",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Energy",
+      "PV",
+      "Building Performance"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1451-y",
@@ -262,7 +276,11 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1451-y",
     "internal_id": "2084537632852320257",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "HVAC",
+      "Data-driven and Machine Learning",
+      "Energy"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1429-9",
@@ -321,7 +339,10 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1429-9",
     "internal_id": "2084537653714788353",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Ventilation",
+      "Data-driven and Machine Learning"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1442-z",
@@ -371,7 +392,11 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1442-z",
     "internal_id": "2084537612799352834",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Indoor Air Quality (IAQ)",
+      "Ventilation",
+      "Data-driven and Machine Learning"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1446-8",
@@ -434,7 +459,11 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1446-8",
     "internal_id": "2084537622349783042",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Ventilation",
+      "Particle",
+      "Data-driven and Machine Learning"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1448-6",
@@ -510,7 +539,10 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1448-6",
     "internal_id": "2084537637533163522",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Data-driven and Machine Learning",
+      "Ventilation"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1464-6",
@@ -569,7 +601,9 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1464-6",
     "internal_id": "2084537647335251970",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Data-driven and Machine Learning"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1432-1",
@@ -636,7 +670,10 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1432-1",
     "internal_id": "2084537627684937729",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Energy",
+      "Data-driven and Machine Learning"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1461-9",
@@ -678,7 +715,10 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1461-9",
     "internal_id": "2081647070490959874",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Urban",
+      "Data-driven and Machine Learning"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1423-2",
@@ -733,7 +773,11 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1423-2",
     "internal_id": "2081647080276271106",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "HVAC",
+      "Data-driven and Machine Learning",
+      "Energy"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1443-y",
@@ -801,7 +845,11 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1443-y",
     "internal_id": "2081647048407949314",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Data-driven and Machine Learning",
+      "Daylighting",
+      "Energy"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1452-x",
@@ -856,7 +904,11 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1452-x",
     "internal_id": "2081647054087036929",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Urban",
+      "Energy",
+      "Occupant Behavior"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1444-x",
@@ -930,7 +982,10 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1444-x",
     "internal_id": "2081647059044704258",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Energy",
+      "HVAC"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1450-z",
@@ -986,7 +1041,10 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1450-z",
     "internal_id": "2081647040107421698",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Energy",
+      "Building Performance"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1455-7",
@@ -1054,7 +1112,10 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1455-7",
     "internal_id": "2081647064191115266",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Energy",
+      "PV"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1453-9",
@@ -1113,7 +1174,11 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1453-9",
     "internal_id": "2081647034520608769",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Indoor Air Quality (IAQ)",
+      "Particle",
+      "Urban"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1456-6",
@@ -1176,7 +1241,10 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1456-6",
     "internal_id": "2081647044649852930",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Indoor Air Quality (IAQ)",
+      "Data-driven and Machine Learning"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1435-y",
@@ -1228,7 +1296,11 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1435-y",
     "internal_id": "2081647029638438914",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Energy",
+      "Urban",
+      "Data-driven and Machine Learning"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1437-9",
@@ -1280,7 +1352,10 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1437-9",
     "internal_id": "2081647074345525249",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Data-driven and Machine Learning",
+      "Energy"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1445-9",
@@ -1347,7 +1422,11 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1445-9",
     "internal_id": "2081647085795975170",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Data-driven and Machine Learning",
+      "Urban",
+      "Energy"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1440-1",
@@ -1400,7 +1479,10 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1440-1",
     "internal_id": "2079043485726973953",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Data-driven and Machine Learning",
+      "HVAC"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1398-z",
@@ -1467,7 +1549,11 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1398-z",
     "internal_id": "2079043544896020481",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "HVAC",
+      "Data-driven and Machine Learning",
+      "Energy"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1420-5",
@@ -1526,7 +1612,11 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1420-5",
     "internal_id": "2079043513296134145",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Data-driven and Machine Learning",
+      "Energy",
+      "PV"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1430-3",
@@ -1588,7 +1678,11 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1430-3",
     "internal_id": "2079043498481852418",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Building Performance",
+      "Energy",
+      "Data-driven and Machine Learning"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1401-8",
@@ -1643,7 +1737,11 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1401-8",
     "internal_id": "2079043508720148481",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Energy",
+      "Building Performance",
+      "Thermal Comfort"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1403-6",
@@ -1706,7 +1804,11 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1403-6",
     "internal_id": "2079043530207567874",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Data-driven and Machine Learning",
+      "Thermal Comfort",
+      "Occupant Behavior"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1413-4",
@@ -1753,7 +1855,11 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1413-4",
     "internal_id": "2079043539724443649",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Data-driven and Machine Learning",
+      "Ventilation",
+      "Indoor Air Quality (IAQ)"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1422-3",
@@ -1812,7 +1918,10 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1422-3",
     "internal_id": "2079043524318765057",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Data-driven and Machine Learning",
+      "Thermal Comfort"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1426-z",
@@ -1867,7 +1976,11 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1426-z",
     "internal_id": "2079043518568374274",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Thermal Comfort",
+      "Data-driven and Machine Learning",
+      "Occupant Behavior"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1438-8",
@@ -1918,7 +2031,11 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1438-8",
     "internal_id": "2079043494732144641",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Data-driven and Machine Learning",
+      "Urban",
+      "Indoor Air Quality (IAQ)"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1402-7",
@@ -1969,7 +2086,11 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1402-7",
     "internal_id": "2079043503770869762",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Energy",
+      "Data-driven and Machine Learning",
+      "Occupant Behavior"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1421-4",
@@ -2020,7 +2141,11 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1421-4",
     "internal_id": "2079043536264142849",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Energy",
+      "HVAC",
+      "Data-driven and Machine Learning"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1427-y",
@@ -2091,7 +2216,11 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1427-y",
     "internal_id": "2079043489497653250",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Indoor Air Quality (IAQ)",
+      "Data-driven and Machine Learning",
+      "Ventilation"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1417-0",
@@ -2151,7 +2280,11 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1417-0",
     "internal_id": "2053751075493175298",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Data-driven and Machine Learning",
+      "Energy",
+      "Ventilation"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1396-1",
@@ -2222,7 +2355,10 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1396-1",
     "internal_id": "2053751103628566529",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Energy",
+      "Building Performance"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1416-1",
@@ -2278,7 +2414,10 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1416-1",
     "internal_id": "2053751127619985410",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Data-driven and Machine Learning",
+      "Energy"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1414-3",
@@ -2324,7 +2463,11 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1414-3",
     "internal_id": "2053751115439726593",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Energy",
+      "HVAC",
+      "Building Performance"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1415-2",
@@ -2376,7 +2519,11 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1415-2",
     "internal_id": "2053751107516686338",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Energy",
+      "Building Performance",
+      "Data-driven and Machine Learning"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1407-2",
@@ -2439,7 +2586,11 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1407-2",
     "internal_id": "2053751118937776130",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Ventilation",
+      "Data-driven and Machine Learning",
+      "Indoor Air Quality (IAQ)"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1409-0",
@@ -2486,7 +2637,11 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1409-0",
     "internal_id": "2053751085186211841",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Indoor Air Quality (IAQ)",
+      "Energy",
+      "Urban"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1412-5",
@@ -2557,7 +2712,9 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1412-5",
     "internal_id": "2053751089384710145",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Data-driven and Machine Learning"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1418-z",
@@ -2620,7 +2777,11 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1418-z",
     "internal_id": "2053751132183388161",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Particle",
+      "Data-driven and Machine Learning",
+      "Ventilation"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1424-1",
@@ -2675,7 +2836,10 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1424-1",
     "internal_id": "2053751123253714946",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Urban",
+      "Ventilation"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1408-1",
@@ -2735,7 +2899,11 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1408-1",
     "internal_id": "2053751111174119425",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Energy",
+      "HVAC",
+      "Data-driven and Machine Learning"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1419-y",
@@ -2786,7 +2954,10 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1419-y",
     "internal_id": "2053751138105745409",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Data-driven and Machine Learning",
+      "Occupant Behavior"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1449-5",
@@ -2853,7 +3024,11 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1449-5",
     "internal_id": "2053751098775756802",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "PCM",
+      "Occupant Behavior",
+      "Energy"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1410-7",
@@ -2909,7 +3084,10 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1410-7",
     "internal_id": "2053751094233325570",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Urban",
+      "Energy"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1411-6",
@@ -2975,7 +3153,11 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1411-6",
     "internal_id": "2053751081067405313",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Data-driven and Machine Learning",
+      "Energy",
+      "Building Performance"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1431-2",
@@ -3033,7 +3215,11 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1431-2",
     "internal_id": "2048942560366919681",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Urban",
+      "Energy",
+      "HVAC"
+    ]
   },
   {
     "doi": "10.1007/s12273-025-1386-6",
@@ -3084,7 +3270,10 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-025-1386-6",
     "internal_id": "2048942586988167170",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Data-driven and Machine Learning",
+      "Energy"
+    ]
   },
   {
     "doi": "10.1007/s12273-025-1383-9",
@@ -3143,7 +3332,10 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-025-1383-9",
     "internal_id": "2048942556503965698",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "HVAC",
+      "Data-driven and Machine Learning"
+    ]
   },
   {
     "doi": "10.1007/s12273-025-1379-7",
@@ -3209,7 +3401,10 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-025-1379-7",
     "internal_id": "2048942551055564802",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Energy",
+      "Urban"
+    ]
   },
   {
     "doi": "10.1007/s12273-025-1388-6",
@@ -3265,7 +3460,11 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-025-1388-6",
     "internal_id": "2048942578821857281",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Data-driven and Machine Learning",
+      "Ventilation",
+      "Urban"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1395-2",
@@ -3328,7 +3527,10 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1395-2",
     "internal_id": "2048942590821761026",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Particle",
+      "Urban"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1397-0",
@@ -3396,7 +3598,11 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1397-0",
     "internal_id": "2048942570731044865",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Data-driven and Machine Learning",
+      "HVAC",
+      "Thermal Comfort"
+    ]
   },
   {
     "doi": "10.1007/s12273-025-1389-5",
@@ -3451,7 +3657,11 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-025-1389-5",
     "internal_id": "2048942565702074370",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Data-driven and Machine Learning",
+      "Energy",
+      "Thermal Comfort"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1394-3",
@@ -3514,7 +3724,10 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1394-3",
     "internal_id": "2048942608219734017",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Occupant Behavior",
+      "Data-driven and Machine Learning"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1399-y",
@@ -3569,7 +3782,10 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1399-y",
     "internal_id": "2048942582764503041",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Urban",
+      "Data-driven and Machine Learning"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1400-9",
@@ -3624,7 +3840,11 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1400-9",
     "internal_id": "2048942575382528001",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Urban",
+      "HVAC",
+      "Data-driven and Machine Learning"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1405-4",
@@ -3675,7 +3895,10 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1405-4",
     "internal_id": "2048942604440666114",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Data-driven and Machine Learning",
+      "Energy"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1406-3",
@@ -3725,7 +3948,11 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1406-3",
     "internal_id": "2048942613022212097",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Occupant Behavior",
+      "Data-driven and Machine Learning",
+      "Energy"
+    ]
   },
   {
     "doi": "10.1007/s12273-025-1385-7",
@@ -3779,7 +4006,10 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-025-1385-7",
     "internal_id": "2048942596064641025",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Data-driven and Machine Learning",
+      "Thermal Comfort"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1393-4",
@@ -3831,7 +4061,10 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1393-4",
     "internal_id": "2048942599696908290",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Energy",
+      "Building Performance"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1441-0",
@@ -3923,7 +4156,11 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-025-1390-z",
     "internal_id": "2047149681969561601",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "HVAC",
+      "Data-driven and Machine Learning",
+      "Energy"
+    ]
   },
   {
     "doi": "10.1007/s12273-025-1382-z",
@@ -3982,7 +4219,10 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-025-1382-z",
     "internal_id": "2047149730405384193",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Building Performance",
+      "Energy"
+    ]
   },
   {
     "doi": "10.1007/s12273-025-1358-z",
@@ -4036,7 +4276,11 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-025-1358-z",
     "internal_id": "2047149701322080258",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Energy",
+      "Data-driven and Machine Learning",
+      "Daylighting"
+    ]
   },
   {
     "doi": "10.1007/s12273-025-1362-3",
@@ -4096,7 +4340,10 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-025-1362-3",
     "internal_id": "2047149693403234306",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "HVAC",
+      "Energy"
+    ]
   },
   {
     "doi": "10.1007/s12273-025-1372-1",
@@ -4154,7 +4401,9 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-025-1372-1",
     "internal_id": "2047149675350949889",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Energy"
+    ]
   },
   {
     "doi": "10.1007/s12273-025-1384-8",
@@ -4213,7 +4462,11 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-025-1384-8",
     "internal_id": "2047149723623194625",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Energy",
+      "Thermal Comfort",
+      "PV"
+    ]
   },
   {
     "doi": "10.1007/s12273-025-1368-x",
@@ -4279,7 +4532,11 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-025-1368-x",
     "internal_id": "2047149686411329538",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Data-driven and Machine Learning",
+      "Urban",
+      "Energy"
+    ]
   },
   {
     "doi": "10.1007/s12273-025-1371-2",
@@ -4326,7 +4583,9 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-025-1371-2",
     "internal_id": "2047149742942158850",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Energy"
+    ]
   },
   {
     "doi": "10.1007/s12273-025-1375-y",
@@ -4377,7 +4636,11 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-025-1375-y",
     "internal_id": "2047149719022043138",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Building Environment",
+      "Data-driven and Machine Learning",
+      "Thermal Comfort"
+    ]
   },
   {
     "doi": "10.1007/s12273-025-1377-9",
@@ -4444,7 +4707,11 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-025-1377-9",
     "internal_id": "2047149667515990017",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Ventilation",
+      "Data-driven and Machine Learning",
+      "Particle"
+    ]
   },
   {
     "doi": "10.1007/s12273-026-1404-5",
@@ -4514,7 +4781,11 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-026-1404-5",
     "internal_id": "2047149737317597185",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Urban",
+      "Energy",
+      "HVAC"
+    ]
   },
   {
     "doi": "10.1007/s12273-025-1370-3",
@@ -4582,7 +4853,11 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-025-1370-3",
     "internal_id": "2047149748294090754",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Data-driven and Machine Learning",
+      "Building Performance",
+      "Energy"
+    ]
   },
   {
     "doi": "10.1007/s12273-025-1376-x",
@@ -4644,7 +4919,11 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-025-1376-x",
     "internal_id": "2047149712332128257",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Data-driven and Machine Learning",
+      "Urban",
+      "Ventilation"
+    ]
   },
   {
     "doi": "10.1007/s12273-025-1392-x",
@@ -4717,7 +4996,11 @@
     "url": "https://www.sciopen.com/article/10.1007/s12273-025-1392-x",
     "internal_id": "2047149754602323970",
     "year": 2026,
-    "research_area": []
+    "research_area": [
+      "Urban",
+      "Energy",
+      "Data-driven and Machine Learning"
+    ]
   },
   {
     "doi": "10.1007/s12273-025-1363-2",
@@ -11478,7 +11761,10 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s12273-025-1283-1.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s12273-025-1283-1",
     "month": "May",
-    "research_area": []
+    "research_area": [
+      "Urban",
+      "Particle"
+    ]
   },
   {
     "doi": "10.1007/s12273-025-1246-6",
@@ -19722,7 +20008,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.1007/s12273-024-1129-2.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s12273-024-1129-2",
     "month": "April",
-    "research_area": []
+    "research_area": [
+      "Ventilation"
+    ]
   },
   {
     "doi": "10.1007/s12273-023-1097-y",
@@ -19871,7 +20159,9 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s12273-023-1077-2.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s12273-023-1077-2",
     "month": "March",
-    "research_area": []
+    "research_area": [
+      "Particle"
+    ]
   },
   {
     "doi": "10.1007/s12273-023-1083-4",
@@ -19909,7 +20199,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.1007/s12273-023-1083-4.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s12273-023-1083-4",
     "month": "March",
-    "research_area": []
+    "research_area": [
+      "Data-driven and Machine Learning"
+    ]
   },
   {
     "doi": "10.1007/s12273-023-1091-4",
@@ -19965,7 +20257,10 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s12273-023-1091-4.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s12273-023-1091-4",
     "month": "March",
-    "research_area": []
+    "research_area": [
+      "Data-driven and Machine Learning",
+      "Indoor Air Quality (IAQ)"
+    ]
   },
   {
     "doi": "10.1007/s12273-023-1094-1",
@@ -20045,7 +20340,11 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s12273-023-1094-1.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s12273-023-1094-1",
     "month": "March",
-    "research_area": []
+    "research_area": [
+      "Data-driven and Machine Learning",
+      "Ventilation",
+      "HVAC"
+    ]
   },
   {
     "doi": "10.1007/s12273-023-1074-5",
@@ -20089,7 +20388,10 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s12273-023-1074-5.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s12273-023-1074-5",
     "month": "March",
-    "research_area": []
+    "research_area": [
+      "Data-driven and Machine Learning",
+      "Energy"
+    ]
   },
   {
     "doi": "10.1007/s12273-023-1084-3",
@@ -20137,7 +20439,11 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s12273-023-1084-3.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s12273-023-1084-3",
     "month": "March",
-    "research_area": []
+    "research_area": [
+      "Thermal Comfort",
+      "Energy",
+      "Building Performance"
+    ]
   },
   {
     "doi": "10.1007/s12273-023-1088-z",
@@ -20185,7 +20491,10 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s12273-023-1088-z.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s12273-023-1088-z",
     "month": "March",
-    "research_area": []
+    "research_area": [
+      "Data-driven and Machine Learning",
+      "Indoor Air Quality (IAQ)"
+    ]
   },
   {
     "doi": "10.1007/s12273-023-1090-5",
@@ -20233,7 +20542,11 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.1007/s12273-023-1090-5.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s12273-023-1090-5",
     "month": "March",
-    "research_area": []
+    "research_area": [
+      "Data-driven and Machine Learning",
+      "Energy",
+      "Building Performance"
+    ]
   },
   {
     "doi": "10.1007/s12273-024-1107-8",
@@ -20303,7 +20616,11 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s12273-023-1089-y.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s12273-023-1089-y",
     "month": "February",
-    "research_area": []
+    "research_area": [
+      "Energy",
+      "Data-driven and Machine Learning",
+      "PV"
+    ]
   },
   {
     "doi": "10.1007/s12273-023-1076-3",
@@ -20346,7 +20663,11 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s12273-023-1076-3.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s12273-023-1076-3",
     "month": "February",
-    "research_area": []
+    "research_area": [
+      "Data-driven and Machine Learning",
+      "HVAC",
+      "Building Performance"
+    ]
   },
   {
     "doi": "10.1007/s12273-023-1075-4",
@@ -20392,7 +20713,11 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s12273-023-1075-4.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s12273-023-1075-4",
     "month": "February",
-    "research_area": []
+    "research_area": [
+      "HVAC",
+      "Data-driven and Machine Learning",
+      "Building Performance"
+    ]
   },
   {
     "doi": "10.1007/s12273-023-1082-5",
@@ -20447,7 +20772,10 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s12273-023-1082-5.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s12273-023-1082-5",
     "month": "February",
-    "research_area": []
+    "research_area": [
+      "Energy",
+      "PV"
+    ]
   },
   {
     "doi": "10.1007/s12273-023-1064-7",
@@ -20493,7 +20821,9 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s12273-023-1064-7.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s12273-023-1064-7",
     "month": "February",
-    "research_area": []
+    "research_area": [
+      "Data-driven and Machine Learning"
+    ]
   },
   {
     "doi": "10.1007/s12273-023-1068-3",
@@ -20560,7 +20890,9 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s12273-023-1068-3.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s12273-023-1068-3",
     "month": "February",
-    "research_area": []
+    "research_area": [
+      "Ventilation"
+    ]
   },
   {
     "doi": "10.1007/s12273-023-1078-1",
@@ -20615,7 +20947,11 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s12273-023-1078-1.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s12273-023-1078-1",
     "month": "February",
-    "research_area": []
+    "research_area": [
+      "Data-driven and Machine Learning",
+      "Indoor Air Quality (IAQ)",
+      "Ventilation"
+    ]
   },
   {
     "doi": "10.1007/s12273-023-1065-6",
@@ -20673,7 +21009,9 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s12273-023-1065-6.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s12273-023-1065-6",
     "month": "February",
-    "research_area": []
+    "research_area": [
+      "Occupant Behavior"
+    ]
   },
   {
     "doi": "10.1007/s12273-023-1071-8",
@@ -20728,7 +21066,9 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s12273-023-1071-8.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s12273-023-1071-8",
     "month": "February",
-    "research_area": []
+    "research_area": [
+      "Energy"
+    ]
   },
   {
     "doi": "10.1007/s12273-023-1081-6",
@@ -20778,7 +21118,11 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s12273-023-1081-6.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s12273-023-1081-6",
     "month": "February",
-    "research_area": []
+    "research_area": [
+      "Building Performance",
+      "Data-driven and Machine Learning",
+      "Energy"
+    ]
   },
   {
     "doi": "10.1007/s12273-023-1100-7",
@@ -20845,7 +21189,11 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s12273-023-1043-z.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s12273-023-1043-z",
     "month": "January",
-    "research_area": []
+    "research_area": [
+      "Urban",
+      "Occupant Behavior",
+      "Data-driven and Machine Learning"
+    ]
   },
   {
     "doi": "10.1007/s12273-023-1040-2",
@@ -20892,7 +21240,11 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s12273-023-1040-2.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s12273-023-1040-2",
     "month": "January",
-    "research_area": []
+    "research_area": [
+      "Ventilation",
+      "Data-driven and Machine Learning",
+      "Indoor Air Quality (IAQ)"
+    ]
   },
   {
     "doi": "10.1007/s12273-023-1085-2",
@@ -20943,7 +21295,11 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s12273-023-1085-2.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s12273-023-1085-2",
     "month": "January",
-    "research_area": []
+    "research_area": [
+      "HVAC",
+      "Building Environment",
+      "Data-driven and Machine Learning"
+    ]
   },
   {
     "doi": "10.1007/s12273-023-1079-0",
@@ -20989,7 +21345,10 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s12273-023-1079-0.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s12273-023-1079-0",
     "month": "January",
-    "research_area": []
+    "research_area": [
+      "Data-driven and Machine Learning",
+      "Energy"
+    ]
   },
   {
     "doi": "10.1007/s12273-023-1060-y",
@@ -21036,7 +21395,11 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s12273-023-1060-y.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s12273-023-1060-y",
     "month": "January",
-    "research_area": []
+    "research_area": [
+      "Data-driven and Machine Learning",
+      "Particle",
+      "Building Environment"
+    ]
   },
   {
     "doi": "10.1007/s12273-023-1063-8",
@@ -21086,7 +21449,11 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s12273-023-1063-8.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s12273-023-1063-8",
     "month": "January",
-    "research_area": []
+    "research_area": [
+      "Data-driven and Machine Learning",
+      "Ventilation",
+      "Indoor Air Quality (IAQ)"
+    ]
   },
   {
     "doi": "10.1007/s12273-023-1056-7",
@@ -21137,7 +21504,11 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s12273-023-1056-7.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s12273-023-1056-7",
     "month": "January",
-    "research_area": []
+    "research_area": [
+      "Occupant Behavior",
+      "Energy",
+      "Data-driven and Machine Learning"
+    ]
   },
   {
     "doi": "10.1007/s12273-023-1070-9",
@@ -21187,7 +21558,10 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s12273-023-1070-9.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s12273-023-1070-9",
     "month": "January",
-    "research_area": []
+    "research_area": [
+      "Energy",
+      "Ventilation"
+    ]
   },
   {
     "doi": "10.1007/s12273-023-1053-x",
@@ -21250,6 +21624,8 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s12273-023-1053-x.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s12273-023-1053-x",
     "month": "January",
-    "research_area": []
+    "research_area": [
+      "Data-driven and Machine Learning"
+    ]
   }
 ]
