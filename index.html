@@ -598,7 +598,7 @@ function render() {
         <span class="card-cite-text">${getCiteText(a)}</span>
         <button class="card-cite-btn" onclick="copyCite(${i})">Copy</button>
         <button class="card-cite-btn" style="background:#27ae60" onclick="event.stopPropagation();downloadRIS(${i})">RIS</button>
-        <a class="card-cite-btn" href="javascript:void(0)" onclick="downloadBibTeX(${i})" style="background:#9b59b6;color:#fff;text-decoration:none;display:inline-block;padding:3px 10px;border-radius:4px;font-size:0.72rem">BibTeX</a>
+        <button class="card-cite-btn" style="background:#9b59b6" onclick="event.stopPropagation();downloadBibTeX(${i})">BibTeX</button>
       </div>` : ''}
       <div class="detail">
         <div class="detail-grid">
