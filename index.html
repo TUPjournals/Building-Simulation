@@ -379,6 +379,27 @@ body {
 }
 .footer a { color: #27ae60; text-decoration: none; }
 
+/* Back to top */
+.back-top {
+  position: fixed;
+  bottom: 32px;
+  right: 32px;
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  background: #27ae60;
+  color: #fff;
+  border: none;
+  font-size: 1.2rem;
+  cursor: pointer;
+  opacity: 0;
+  transition: opacity 0.3s, background 0.2s;
+  z-index: 99;
+  box-shadow: 0 2px 12px rgba(39,174,96,0.3);
+}
+.back-top.visible { opacity: 1; }
+.back-top:hover { background: #1b5e20; }
+
 /* Mobile */
 @media (max-width: 768px) {
   .header { padding: 16px 0 12px; }
@@ -396,6 +417,7 @@ body {
   .d-links { flex-direction: column; gap: 8px; }
   .d-cite { flex-direction: column; gap: 8px; padding: 10px 12px; }
   .d-cite-copy { padding: 8px 12px; font-size: 0.85rem; width: 100%; }
+  .back-top { width: 42px; height: 42px; bottom: 20px; right: 20px; }
 }
 </style>
 </head>
@@ -435,6 +457,8 @@ body {
 <div class="footer">
   Building Simulation &copy; 2024–2026 — Data from <a href="https://www.sciopen.com" target="_blank">SciOpen</a>
 </div>
+
+<button id="backTop" class="back-top" title="Back to search">▴</button>
 
 <script>
 const DATA_URL = 'bs_articles.json';
@@ -786,6 +810,16 @@ function debounce(fn, ms) {
   let t;
   return (...a) => { clearTimeout(t); t = setTimeout(() => fn(...a), ms); };
 }
+
+/* ── Back to top ── */
+const $backTop = document.getElementById('backTop');
+window.addEventListener('scroll', () => {
+  $backTop.classList.toggle('visible', window.scrollY > 400);
+});
+$backTop.addEventListener('click', () => {
+  $search.focus();
+  $search.scrollIntoView({ behavior: 'smooth', block: 'center' });
+});
 
 /* ── Init ── */
 loadData();
